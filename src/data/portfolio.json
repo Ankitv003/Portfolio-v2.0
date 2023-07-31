@@ -13,6 +13,12 @@
       "url": "https://generator-nft.netlify.app/"
     },
     {
+      "cover": "/portfolio-images/keeper-app.png",
+      "title": "Keeper App",
+      "description": "Javascript, React, Material UI, JSX",
+      "url": "https://keeper-app0.netlify.app/"
+    },
+    {
       "cover": "/portfolio-images/banana-talk.png",
       "title": "Banana Talk",
       "description": "HTML5, CSS3, Javascript, API",
@@ -40,7 +46,7 @@
       "cover": "/portfolio-images/old-portfolio.png",
       "title": "Old Porfolio",
       "description": "HTML5, CSS3",
-      "url": "https://replit.com/@AnkitVerma12/How-well-do-your-friends-know-you??embed=1&output=1"
+      "url": "https://ankit-verma.netlify.app/"
     }
   ]
 }
