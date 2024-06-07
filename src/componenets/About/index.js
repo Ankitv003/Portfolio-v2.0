@@ -64,7 +64,7 @@ const About = () => {
             this
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1mfBgeCe2piE3r2dqkkTsNWgdsWTGKVmX/view"
+              href="https://drive.google.com/file/d/1fikhph815aaUNyUz7ASzB92wGW0k-Ehu/view?usp=sharing"
               rel="noreferrer"
             >
               {' '}
