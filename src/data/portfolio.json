@@ -9,8 +9,8 @@
     {
       "cover": "/portfolio-images/movies-watchlist.png",
       "title": "Movies Watchlist",
-      "description": "Javascript, OMDB API, HTML, CSS3, PWA",
-      "url": "https://generator-nft.netlify.app/"
+      "description": "Javascript, OMDB API, CSS3, PWA",
+      "url": "https://movies-watchlist-application.netlify.app/"
     },
     {
       "cover": "/portfolio-images/keeper-app.png",
