@@ -7,9 +7,9 @@
       "url": "https://today-i-learned-0.netlify.app/"
     },
     {
-      "cover": "/portfolio-images/nft-generator.png",
-      "title": "NFT Generator",
-      "description": "Javascript, React, JSX, CSS3",
+      "cover": "/portfolio-images/movies-watchlist.png",
+      "title": "Movies Watchlist",
+      "description": "Javascript, OMDB API, HTML, CSS3, PWA",
       "url": "https://generator-nft.netlify.app/"
     },
     {
