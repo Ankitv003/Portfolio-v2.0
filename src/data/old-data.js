@@ -25,4 +25,10 @@ const oldData = [
     description: 'HTML5, CSS3',
     url: 'https://ankit-verma.netlify.app/',
   },
+  {
+    cover: '/portfolio-images/banana-talk.png',
+    title: 'Banana Talk',
+    description: 'HTML5, CSS3, Javascript, API',
+    url: 'https://banana-talk-banana.netlify.app/',
+  },
 ]

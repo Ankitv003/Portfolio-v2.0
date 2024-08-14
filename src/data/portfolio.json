@@ -43,10 +43,10 @@
       "url": "https://zip-code-information-application.netlify.app/"
     },
     {
-      "cover": "/portfolio-images/banana-talk.png",
-      "title": "Banana Talk",
-      "description": "HTML5, CSS3, Javascript, API",
-      "url": "https://banana-talk-banana.netlify.app/"
+      "cover": "",
+      "title": "Tenzies Game App",
+      "description": "Javascript, React, JSX, CSS3",
+      "url": "https://tenzies-game-apps.netlify.app/"
     }
   ]
 }
