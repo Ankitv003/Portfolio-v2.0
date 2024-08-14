@@ -43,7 +43,7 @@
       "url": "https://zip-code-information-application.netlify.app/"
     },
     {
-      "cover": "",
+      "cover": "/portfolio-images/tenzies-game-app.png",
       "title": "Tenzies Game App",
       "description": "Javascript, React, JSX, CSS3",
       "url": "https://tenzies-game-apps.netlify.app/"
