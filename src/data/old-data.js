@@ -31,4 +31,9 @@ const oldData = [
     description: 'HTML5, CSS3, Javascript, API',
     url: 'https://banana-talk-banana.netlify.app/',
   },
+ { cover: "/portfolio-images/cat-meme-picker2.jpeg",
+  title: "Cat Meme Picker",
+  description: "Javascript, HTML5, CSS3",
+  url: "https://cat-meme-picker-app.netlify.app/"
+}
 ]

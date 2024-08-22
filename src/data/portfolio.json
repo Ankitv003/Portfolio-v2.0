@@ -25,10 +25,10 @@
       "url": "https://color-pallete-generator-app.netlify.app/"
     },
     {
-      "cover": "/portfolio-images/cat-meme-picker2.jpeg",
-      "title": "Cat Meme Picker",
-      "description": "Javascript, HTML5, CSS3",
-      "url": "https://cat-meme-picker-app.netlify.app/"
+      "cover": "/portfolio-images/product-listing-page.png",
+      "title": "E-commerce-shopping-cart",
+      "description": "Javascript, React, JSX, CSS3, FAKE API ",
+      "url": "https://shop-products-ankit.netlify.app/"
     },
     {
       "cover": "/portfolio-images/twimba2.jpeg",
