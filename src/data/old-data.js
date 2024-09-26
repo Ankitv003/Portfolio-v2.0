@@ -35,5 +35,11 @@ const oldData = [
   title: "Cat Meme Picker",
   description: "Javascript, HTML5, CSS3",
   url: "https://cat-meme-picker-app.netlify.app/"
+},
+{
+  cover: "/portfolio-images/twimba2.jpeg",
+  title: "Twimba",
+  description: "Javascript, HTML5, CSS3",
+  url: "https://twimba-pro.netlify.app/"
 }
 ]
